@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/QRCodesSample.unity
     guid: 0453e76e9b063c445b10a27eaf11c08c
+  - enabled: 1
+    path: Assets/Getting Text From QR Code Example/Example.unity
+    guid: 3013cb529c3c4144fae0a432a0c94feb
   m_configObjects: {}
